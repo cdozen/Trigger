@@ -1,10 +1,3 @@
-/*
- * * File:   main.cpp
- * * Author: sagar
- * *
- * * Created on 10 September, 2012, 7:48 PM
- * */
- 
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 #include <iostream>
