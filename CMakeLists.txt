@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Trigger )
+find_package( OpenCV REQUIRED )
+add_executable( Trigger Trigger.cpp )
+target_link_libraries( Trigger ${OpenCV_LIBS} )
